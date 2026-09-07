@@ -1,6 +1,13 @@
 import API
 import re
 
+# ------------------------------------------------------------
+# INFO
+# ------------------------------------------------------------
+
+# Scans your backpack for the uncompleted treasure map closest to your location
+# Uses a shovel to dig on your location, if you are too far it shows you an arrow directing you to the chest location
+# Script intended to be used as a hotkey 
 
 # ------------------------------------------------------------
 # SETTINGS
