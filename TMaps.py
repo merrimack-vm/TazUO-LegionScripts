@@ -17,7 +17,7 @@ SHOVEL = 0x0F39
 TREASURE_MAP = 0x14EC
 
 # Show the tracking arrow when farther away than this many tiles.
-ARROW_DISTANCE = 15
+ARROW_DISTANCE = 5
 
 # Unique ID for our tracking arrow.
 ARROW_ID = 987654
